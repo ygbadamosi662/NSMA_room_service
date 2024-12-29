@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0" version="26.0.1">
   <diagram name="Page-1" id="JwLQiluCDj7BUVWrhCS6">
-    <mxGraphModel>
+    <mxGraphModel dx="1032" dy="1595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kceuGKvt7hz0_VKH2Cjf-1" value="ROOM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kceuGKvt7hz0_VKH2Cjf-2" value="&lt;b&gt;LEGENDS&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="130" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="kceuGKvt7hz0_VKH2Cjf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kceuGKvt7hz0_VKH2Cjf-4" target="kceuGKvt7hz0_VKH2Cjf-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kceuGKvt7hz0_VKH2Cjf-4" value="Models" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kceuGKvt7hz0_VKH2Cjf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.004;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kceuGKvt7hz0_VKH2Cjf-1" target="kceuGKvt7hz0_VKH2Cjf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kceuGKvt7hz0_VKH2Cjf-10" value="&lt;b&gt;Room&lt;/b&gt;&lt;div&gt;name(string, nullable #note name will only be set for paid_for sub-rooms and sub-rooms with 70% and above average rating&lt;b&gt;),&lt;/b&gt;&lt;/div&gt;&lt;div&gt;min(min number of users required),&lt;/div&gt;&lt;div&gt;max(max number users allowed),&lt;/div&gt;&lt;div&gt;rating(number #note the number represents a percentage),&lt;/div&gt;&lt;div&gt;current_size(number of active users),&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="kceuGKvt7hz0_VKH2Cjf-11" value="&lt;b&gt;Category&lt;/b&gt;&lt;div&gt;name,&lt;/div&gt;&lt;div&gt;description,&lt;/div&gt;&lt;div&gt;parent_ref(nullable)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-240" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="kceuGKvt7hz0_VKH2Cjf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.015;entryY=0.207;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kceuGKvt7hz0_VKH2Cjf-4" target="kceuGKvt7hz0_VKH2Cjf-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
