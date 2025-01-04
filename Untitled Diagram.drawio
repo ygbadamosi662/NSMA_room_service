@@ -142,7 +142,7 @@
         <mxCell id="xqzXWwxne0dO0nGygCqp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xqzXWwxne0dO0nGygCqp-3" target="xqzXWwxne0dO0nGygCqp-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xqzXWwxne0dO0nGygCqp-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xqzXWwxne0dO0nGygCqp-3" target="xqzXWwxne0dO0nGygCqp-15" edge="1">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xqzXWwxne0dO0nGygCqp-3" target="xqzXWwxne0dO0nGygCqp-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xqzXWwxne0dO0nGygCqp-3" value="&lt;b&gt;Room&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -172,53 +172,14 @@
         <mxCell id="xqzXWwxne0dO0nGygCqp-12" value="&lt;b&gt;Get&lt;/b&gt;&lt;div&gt;query for the room,&lt;/div&gt;&lt;div&gt;query for all sub_rooms where sub_rooms[].room_ref equals room.id,&lt;/div&gt;&lt;div&gt;return: room, sub_rooms(array of sub_rooms)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="1200" width="280" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="xqzXWwxne0dO0nGygCqp-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="xqzXWwxne0dO0nGygCqp-14" target="xqzXWwxne0dO0nGygCqp-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xqzXWwxne0dO0nGygCqp-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xqzXWwxne0dO0nGygCqp-14" target="xqzXWwxne0dO0nGygCqp-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xqzXWwxne0dO0nGygCqp-14" value="&lt;b&gt;Creation&lt;/b&gt;&lt;div&gt;collect data,&lt;/div&gt;&lt;div&gt;validate data&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="1480" width="120" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="xqzXWwxne0dO0nGygCqp-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="xqzXWwxne0dO0nGygCqp-15" target="xqzXWwxne0dO0nGygCqp-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xqzXWwxne0dO0nGygCqp-15" value="&lt;b&gt;Sub-room&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="1440" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="xqzXWwxne0dO0nGygCqp-16" value="&lt;b&gt;Validation failed&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="1400" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="xqzXWwxne0dO0nGygCqp-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xqzXWwxne0dO0nGygCqp-19" target="xqzXWwxne0dO0nGygCqp-38" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xqzXWwxne0dO0nGygCqp-19" value="&lt;b&gt;Create sub-room&lt;/b&gt;&lt;div&gt;using room.id create a sub_room_doc with the appropriate data&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="1480" width="160" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="xqzXWwxne0dO0nGygCqp-23" value="&lt;b&gt;Join sub-room&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="1680" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xqzXWwxne0dO0nGygCqp-25" value="&lt;b&gt;User_sub_room_plan&lt;/b&gt;&lt;div&gt;user_ref,&lt;/div&gt;&lt;div&gt;sub_room_ref,&lt;/div&gt;&lt;div&gt;&lt;div&gt;plan(sub_doc(type(enum: ownership, guest, staff, app), ref(sub_room_plan_ref, nullable #note tobe set if type is in [guest, staff, app]) ) ),&lt;/div&gt;&lt;/div&gt;&lt;div&gt;qty(nullable),&lt;/div&gt;&lt;div&gt;transaction_ref(nullable),&lt;/div&gt;&lt;div&gt;contracts(array(contract_ref))&lt;/div&gt;&lt;div&gt;expires(timestamp, nullable)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="-3140" width="320" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="xqzXWwxne0dO0nGygCqp-31" value="&lt;b&gt;Validation&lt;/b&gt;&lt;div&gt;validate sub-room params if sub-room have params,&lt;/div&gt;&lt;div&gt;validate permissions if sub-room have requested permissions,&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="1720" width="200" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="xqzXWwxne0dO0nGygCqp-32" value="&lt;b&gt;Enter room&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="690" y="1680" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="xqzXWwxne0dO0nGygCqp-34" value="&lt;b&gt;Validation failed&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="1640" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="xqzXWwxne0dO0nGygCqp-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.419;entryY=0.867;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="xqzXWwxne0dO0nGygCqp-31" target="xqzXWwxne0dO0nGygCqp-34" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xqzXWwxne0dO0nGygCqp-36" value="&lt;b&gt;If public&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1240" y="1840" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xqzXWwxne0dO0nGygCqp-38" value="&lt;b&gt;Private room&lt;/b&gt;&lt;div&gt;set sub-room.plans,&lt;/div&gt;&lt;div&gt;set sub-room.setting,&lt;/div&gt;&lt;div&gt;set sub-room.privacy,&lt;/div&gt;&lt;div&gt;save sub-room&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1240" y="1440" width="170" height="100" as="geometry" />
+          <mxGeometry x="680" y="1480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xqzXWwxne0dO0nGygCqp-43" value="&lt;b&gt;Finish room setup&lt;/b&gt;&lt;br&gt;&lt;div&gt;set room.plans,&lt;/div&gt;&lt;div&gt;set hoh(current user_ref),&lt;/div&gt;&lt;div&gt;set room.settings,&lt;/div&gt;&lt;div&gt;set room.params&lt;/div&gt;&lt;div&gt;save room.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1920" y="1000" width="200" height="120" as="geometry" />
