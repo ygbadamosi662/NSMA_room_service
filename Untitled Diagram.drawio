@@ -58,7 +58,7 @@
         <mxCell id="kceuGKvt7hz0_VKH2Cjf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.004;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="kceuGKvt7hz0_VKH2Cjf-1" target="kceuGKvt7hz0_VKH2Cjf-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kceuGKvt7hz0_VKH2Cjf-10" value="&lt;b&gt;Room&lt;/b&gt;&lt;div&gt;name(string&lt;b&gt;),&lt;/b&gt;&lt;/div&gt;&lt;div&gt;category_ref,&lt;/div&gt;&lt;div&gt;min(min number of users required),&lt;/div&gt;&lt;div&gt;max(max number users allowed),&lt;/div&gt;&lt;div&gt;privacy(enum: private, public),&lt;/div&gt;&lt;div&gt;plans(array(....room_plans)),&lt;/div&gt;&lt;div&gt;hoh(user_ref, #note 0 for the platform),&lt;/div&gt;&lt;div&gt;setting_ref,&lt;/div&gt;&lt;div&gt;allow_dynamic_entry,&lt;/div&gt;&lt;div&gt;&lt;div&gt;params(array of sub_docs(data: json_string, name: string, type: enum(number, price, float, string, obj, file), required: boolean, when: enum(pre_play, in_play etc...), default ), nullable),&lt;/div&gt;&lt;div&gt;data(sub_doc(&lt;span style=&quot;background-color: initial;&quot;&gt;array of sub_docs(name: string, source: enum(permission, landlord, room, all_global_datas(each passed as an array of keys, these keys according to their index will be used to transverse global datas to get the specific data intended) ), ref(sub_doc(ref, target: string(#note path is a string of keys seperated by a &quot;,&quot;, it maps out the path to the data), collection: string(name of collection in db) ), nullable) )&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="kceuGKvt7hz0_VKH2Cjf-10" value="&lt;b&gt;Room&lt;/b&gt;&lt;div&gt;name(string&lt;b&gt;),&lt;/b&gt;&lt;/div&gt;&lt;div&gt;category_ref,&lt;/div&gt;&lt;div&gt;min_capacity(min number of users required),&lt;/div&gt;&lt;div&gt;max_capacity(max number users allowed),&lt;/div&gt;&lt;div&gt;privacy(enum: private, public),&lt;/div&gt;&lt;div&gt;plans(array(....room_plans)),&lt;/div&gt;&lt;div&gt;hoh(user_ref, #note 0 for the platform),&lt;/div&gt;&lt;div&gt;setting_ref,&lt;/div&gt;&lt;div&gt;allow_dynamic_entry,&lt;/div&gt;&lt;div&gt;&lt;div&gt;params(array of sub_docs(data: json_string, name: string, type: enum(number, price, float, string, obj, file), required: boolean, when: enum(pre_play, in_play etc...), default ), nullable),&lt;/div&gt;&lt;div&gt;data(sub_doc(&lt;span style=&quot;background-color: initial;&quot;&gt;array of sub_docs(name: string, source: enum(permission, landlord, room, all_global_datas(each passed as an array of keys, these keys according to their index will be used to transverse global datas to get the specific data intended) ), ref(sub_doc(ref, target: string(#note path is a string of keys seperated by a &quot;,&quot;, it maps out the path to the data), collection: string(name of collection in db) ), nullable) )&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" width="320" height="390" as="geometry" />
         </mxCell>
         <mxCell id="kceuGKvt7hz0_VKH2Cjf-11" value="&lt;b&gt;Category&lt;/b&gt;&lt;div&gt;name,&lt;/div&gt;&lt;div&gt;description,&lt;/div&gt;&lt;div&gt;parent_ref(nullable),&lt;/div&gt;&lt;div&gt;hooks(array(hook_ref)),&lt;/div&gt;&lt;div&gt;permissions(array(permision_ref), nullable ),&lt;/div&gt;&lt;div&gt;plans(array(category_plan)),&lt;/div&gt;&lt;div&gt;capacity,&lt;/div&gt;&lt;div&gt;current_capacity&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -148,8 +148,14 @@
         <mxCell id="xqzXWwxne0dO0nGygCqp-3" value="&lt;b&gt;Room&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="1040" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xqzXWwxne0dO0nGygCqp-4" value="&lt;b&gt;Create Room&lt;/b&gt;&lt;div&gt;using provided category_ref(if not then this room will be returned will all categories when fetched) create a room_doc.&lt;/div&gt;&lt;div&gt;save&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="850" y="1000" width="390" height="160" as="geometry" />
+        <mxCell id="JLu_9honwRpLykDaQ8XI-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xqzXWwxne0dO0nGygCqp-4" target="JLu_9honwRpLykDaQ8XI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JLu_9honwRpLykDaQ8XI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xqzXWwxne0dO0nGygCqp-4" target="JLu_9honwRpLykDaQ8XI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xqzXWwxne0dO0nGygCqp-4" value="&lt;b&gt;Create Room&lt;/b&gt;&lt;div&gt;using provided category_ref and collected data create a room_doc.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="850" y="1000" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xqzXWwxne0dO0nGygCqp-5" value="&lt;b&gt;Validation failed&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="1000" width="120" height="40" as="geometry" />
@@ -214,11 +220,17 @@
         <mxCell id="xqzXWwxne0dO0nGygCqp-38" value="&lt;b&gt;Private room&lt;/b&gt;&lt;div&gt;set sub-room.plans,&lt;/div&gt;&lt;div&gt;set sub-room.setting,&lt;/div&gt;&lt;div&gt;set sub-room.privacy,&lt;/div&gt;&lt;div&gt;save sub-room&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1240" y="1440" width="170" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="xqzXWwxne0dO0nGygCqp-43" value="&lt;b&gt;Private room&lt;/b&gt;&lt;div&gt;set room.plans,&lt;/div&gt;&lt;div&gt;set hoh(current user_ref),&lt;/div&gt;&lt;div&gt;generate and set guest_url,&lt;/div&gt;&lt;div&gt;set params&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1560" y="1370" width="200" height="120" as="geometry" />
+        <mxCell id="xqzXWwxne0dO0nGygCqp-43" value="&lt;b&gt;Finish room setup&lt;/b&gt;&lt;br&gt;&lt;div&gt;set room.plans,&lt;/div&gt;&lt;div&gt;set hoh(current user_ref),&lt;/div&gt;&lt;div&gt;set room.settings,&lt;/div&gt;&lt;div&gt;set room.params&lt;/div&gt;&lt;div&gt;save room.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1920" y="1000" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="kvjalDzr84s7akkoXQtF-3" value="&lt;b&gt;Payment&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1640" y="1040" width="220" height="120" as="geometry" />
+        <mxCell id="JLu_9honwRpLykDaQ8XI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kvjalDzr84s7akkoXQtF-3" target="JLu_9honwRpLykDaQ8XI-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JLu_9honwRpLykDaQ8XI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kvjalDzr84s7akkoXQtF-3" target="JLu_9honwRpLykDaQ8XI-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kvjalDzr84s7akkoXQtF-3" value="&lt;b&gt;Payment&lt;/b&gt;&lt;div&gt;facilitate payment based on the plan the user choose&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="1050" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-tVxKX45YJ9eaGW1tU2y-1" value="&lt;b&gt;User room access&lt;/b&gt;&lt;div&gt;user_ref,&lt;/div&gt;&lt;div&gt;room_ref&lt;/div&gt;&lt;div&gt;user_sub_room_plan_ref,&lt;/div&gt;&lt;div&gt;&lt;div&gt;pass_code(sub_doc(code: string, mode(enum: manual,share), expires(timestamp, nullable)), nullable),&lt;/div&gt;&lt;div&gt;room_data(array(sub_doc(value: json_string, path: string))),&lt;/div&gt;&lt;div&gt;permissions(array(sub_doc(permission_ref, expires(timestamp, nullable)) ), nullable ),&lt;/div&gt;&lt;/div&gt;&lt;div&gt;level(enum(owner, guest, staff, renter etc) ),&lt;/div&gt;&lt;div&gt;status(enum(active, inactive) ),&lt;/div&gt;&lt;div&gt;role_ref(nullable),&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="-3510" width="360" height="260" as="geometry" />
@@ -226,11 +238,17 @@
         <mxCell id="-tVxKX45YJ9eaGW1tU2y-3" value="&lt;b&gt;Roles&lt;/b&gt;&lt;div&gt;subject_ref,&lt;/div&gt;&lt;div&gt;name,&lt;/div&gt;&lt;div&gt;description,&lt;/div&gt;&lt;div&gt;permissions(array(permission_ref)),&lt;/div&gt;&lt;div&gt;creator(sub_doc(creator(for(ref, nullable), collection(enum(...collections)) ), nullable)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="-3760" width="360" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="JLu_9honwRpLykDaQ8XI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JLu_9honwRpLykDaQ8XI-1" target="kvjalDzr84s7akkoXQtF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JLu_9honwRpLykDaQ8XI-1" value="&lt;b&gt;Private&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="1120" width="140" height="40" as="geometry" />
+          <mxGeometry x="1200" y="1080" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JLu_9honwRpLykDaQ8XI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JLu_9honwRpLykDaQ8XI-2" target="xqzXWwxne0dO0nGygCqp-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JLu_9honwRpLykDaQ8XI-2" value="&lt;b&gt;Public&lt;/b&gt;&lt;div&gt;add free plan to room.plans,&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="960" width="140" height="80" as="geometry" />
+          <mxGeometry x="1200" y="980" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JLu_9honwRpLykDaQ8XI-3" value="&lt;b&gt;Category_plan&lt;/b&gt;&lt;br&gt;&lt;div&gt;category_ref,&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;plan(enum: rent, pass_code),&lt;/div&gt;&lt;div&gt;type(enum(user, app)),&lt;/div&gt;&lt;div&gt;price(sub_doc(amnt: money, denominatn_ref), nullable),&lt;/div&gt;&lt;div&gt;denominations(array of denomination_refs, nullable),&lt;/div&gt;&lt;/div&gt;&lt;div&gt;interval(enum(monthly, yearlyt), nullable),&lt;/div&gt;&lt;div&gt;&lt;div&gt;shared_codes(array(sub_doc(code: string(platform_generated_secured_pass_code), expires(timestamp, nullable), expired(boolean) )), nullable),&lt;/div&gt;&lt;div&gt;manual_codes(array(sub_doc(code: user_provided_code, expires(timestamp), expired(boolean)),&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;#note default denomination is the denomination ref at index &quot;0&quot; in the denominations array.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="-4120" width="360" height="280" as="geometry" />
@@ -243,6 +261,18 @@
         </mxCell>
         <mxCell id="JLu_9honwRpLykDaQ8XI-6" value="&lt;b&gt;User_category_plan&lt;/b&gt;&lt;div&gt;&lt;div&gt;user_ref,&lt;/div&gt;&lt;div&gt;category_ref,&lt;/div&gt;&lt;div&gt;plan(category_plan_ref),&lt;/div&gt;&lt;div&gt;contracts(array(contract_ref))&lt;/div&gt;&lt;div&gt;expires(timestamp, nullable)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="-4880" width="360" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="JLu_9honwRpLykDaQ8XI-12" value="&lt;b&gt;Payment failed&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JLu_9honwRpLykDaQ8XI-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.845;entryY=1.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JLu_9honwRpLykDaQ8XI-12" target="JLu_9honwRpLykDaQ8XI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JLu_9honwRpLykDaQ8XI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JLu_9honwRpLykDaQ8XI-15" target="xqzXWwxne0dO0nGygCqp-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JLu_9honwRpLykDaQ8XI-15" value="&lt;b&gt;Payment succesfull&lt;/b&gt;&lt;div&gt;create app_user_rent for the room,&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="1040" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
