@@ -40,16 +40,16 @@
         <mxCell id="-tVxKX45YJ9eaGW1tU2y-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kceuGKvt7hz0_VKH2Cjf-4" target="-tVxKX45YJ9eaGW1tU2y-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kceuGKvt7hz0_VKH2Cjf-4" target="JLu_9honwRpLykDaQ8XI-3">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kceuGKvt7hz0_VKH2Cjf-4" target="JLu_9honwRpLykDaQ8XI-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kceuGKvt7hz0_VKH2Cjf-4" target="JLu_9honwRpLykDaQ8XI-5">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kceuGKvt7hz0_VKH2Cjf-4" target="JLu_9honwRpLykDaQ8XI-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kceuGKvt7hz0_VKH2Cjf-4" target="JLu_9honwRpLykDaQ8XI-4">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kceuGKvt7hz0_VKH2Cjf-4" target="JLu_9honwRpLykDaQ8XI-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kceuGKvt7hz0_VKH2Cjf-4" target="JLu_9honwRpLykDaQ8XI-6">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kceuGKvt7hz0_VKH2Cjf-4" target="JLu_9honwRpLykDaQ8XI-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kceuGKvt7hz0_VKH2Cjf-4" value="Models" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -109,7 +109,7 @@
         <mxCell id="xqzXWwxne0dO0nGygCqp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OvHRCUOQNgS_uRx5AtUm-2" target="OvHRCUOQNgS_uRx5AtUm-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OvHRCUOQNgS_uRx5AtUm-2" target="JLu_9honwRpLykDaQ8XI-23">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OvHRCUOQNgS_uRx5AtUm-2" target="JLu_9honwRpLykDaQ8XI-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OvHRCUOQNgS_uRx5AtUm-2" value="&lt;b&gt;Category&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -130,7 +130,7 @@
         <mxCell id="OvHRCUOQNgS_uRx5AtUm-21" value="&lt;b&gt;Creation&lt;/b&gt;&lt;div&gt;collect data&lt;/div&gt;&lt;div&gt;validate&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OvHRCUOQNgS_uRx5AtUm-22" target="OvHRCUOQNgS_uRx5AtUm-2">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OvHRCUOQNgS_uRx5AtUm-22" target="OvHRCUOQNgS_uRx5AtUm-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OvHRCUOQNgS_uRx5AtUm-22" value="&lt;b&gt;Validation failed&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -148,16 +148,16 @@
         <mxCell id="xqzXWwxne0dO0nGygCqp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xqzXWwxne0dO0nGygCqp-3" target="xqzXWwxne0dO0nGygCqp-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xqzXWwxne0dO0nGygCqp-3" target="xqzXWwxne0dO0nGygCqp-32">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xqzXWwxne0dO0nGygCqp-3" target="xqzXWwxne0dO0nGygCqp-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xqzXWwxne0dO0nGygCqp-3" value="&lt;b&gt;Room&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="1040" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xqzXWwxne0dO0nGygCqp-4" target="JLu_9honwRpLykDaQ8XI-2">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xqzXWwxne0dO0nGygCqp-4" target="JLu_9honwRpLykDaQ8XI-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xqzXWwxne0dO0nGygCqp-4" target="JLu_9honwRpLykDaQ8XI-1">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xqzXWwxne0dO0nGygCqp-4" target="JLu_9honwRpLykDaQ8XI-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xqzXWwxne0dO0nGygCqp-4" value="&lt;b&gt;Create Room&lt;/b&gt;&lt;div&gt;using provided category_ref and collected data create a room_doc.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -179,21 +179,27 @@
           <mxGeometry x="680" y="1200" width="280" height="130" as="geometry" />
         </mxCell>
         <mxCell id="xqzXWwxne0dO0nGygCqp-23" value="&lt;b&gt;Join sub-room&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="1580" width="120" height="40" as="geometry" />
+          <mxGeometry x="1370" y="1772.5" width="320" height="135" as="geometry" />
         </mxCell>
         <mxCell id="xqzXWwxne0dO0nGygCqp-25" value="&lt;b&gt;User_sub_room_plan&lt;/b&gt;&lt;div&gt;user_ref,&lt;/div&gt;&lt;div&gt;sub_room_ref,&lt;/div&gt;&lt;div&gt;&lt;div&gt;plan(sub_doc(type(enum: ownership, guest, staff, app), ref(sub_room_plan_ref, nullable #note tobe set if type is in [guest, staff, app]) ) ),&lt;/div&gt;&lt;/div&gt;&lt;div&gt;qty(nullable),&lt;/div&gt;&lt;div&gt;transaction_ref(nullable),&lt;/div&gt;&lt;div&gt;contracts(array(contract_ref))&lt;/div&gt;&lt;div&gt;expires(timestamp, nullable)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="-3140" width="320" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="xqzXWwxne0dO0nGygCqp-32" value="&lt;b&gt;Enter room&lt;/b&gt;&lt;div&gt;&lt;div&gt;get users active user_room_access,&lt;/div&gt;&lt;div&gt;for each&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;user_room_access,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;validate the default user_room_access.permissions,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;validate the default&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;user_room_access.plan,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;validate the default&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;user_room_access.params,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;validate the default&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;user_room_access.role&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="nEexABi0wyrj7f_8TDb--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xqzXWwxne0dO0nGygCqp-32" target="JLu_9honwRpLykDaQ8XI-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nEexABi0wyrj7f_8TDb--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xqzXWwxne0dO0nGygCqp-32" target="JLu_9honwRpLykDaQ8XI-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xqzXWwxne0dO0nGygCqp-32" value="&lt;b&gt;Enter room&lt;/b&gt;&lt;div&gt;&lt;div&gt;get users active user_room_access,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;validate the default user_room_access.permissions,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;validate the default&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;user_room_access.plan,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;validate the default&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;user_room_access.params,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;validate the default&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;user_room_access.role&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="1760" width="240" height="160" as="geometry" />
         </mxCell>
         <mxCell id="xqzXWwxne0dO0nGygCqp-43" value="&lt;b&gt;Finish room setup&lt;/b&gt;&lt;br&gt;&lt;div&gt;set room.plans,&lt;/div&gt;&lt;div&gt;set hoh(current user_ref),&lt;/div&gt;&lt;div&gt;set room.settings,&lt;/div&gt;&lt;div&gt;set room.params&lt;/div&gt;&lt;div&gt;save room.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1920" y="1000" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kvjalDzr84s7akkoXQtF-3" target="JLu_9honwRpLykDaQ8XI-12">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kvjalDzr84s7akkoXQtF-3" target="JLu_9honwRpLykDaQ8XI-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kvjalDzr84s7akkoXQtF-3" target="JLu_9honwRpLykDaQ8XI-15">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kvjalDzr84s7akkoXQtF-3" target="JLu_9honwRpLykDaQ8XI-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kvjalDzr84s7akkoXQtF-3" value="&lt;b&gt;Payment&lt;/b&gt;&lt;div&gt;facilitate payment based on the plan the user choose&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -205,92 +211,113 @@
         <mxCell id="-tVxKX45YJ9eaGW1tU2y-3" value="&lt;b&gt;Roles&lt;/b&gt;&lt;div&gt;subject_ref,&lt;/div&gt;&lt;div&gt;name,&lt;/div&gt;&lt;div&gt;description,&lt;/div&gt;&lt;div&gt;permissions(array(permission_ref)),&lt;/div&gt;&lt;div&gt;creator(sub_doc(creator(for(ref, nullable), collection(enum(...collections)) ), nullable),&lt;/div&gt;&lt;div&gt;status(enum: active, inactive)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="-3760" width="360" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JLu_9honwRpLykDaQ8XI-1" target="kvjalDzr84s7akkoXQtF-3">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JLu_9honwRpLykDaQ8XI-1" target="kvjalDzr84s7akkoXQtF-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JLu_9honwRpLykDaQ8XI-1" target="JLu_9honwRpLykDaQ8XI-48">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JLu_9honwRpLykDaQ8XI-1" target="JLu_9honwRpLykDaQ8XI-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-1" value="&lt;b&gt;Private&lt;/b&gt;&lt;div&gt;validate room.parent.rent_allowed,&lt;br&gt;&lt;div&gt;validate room.parent.capacity(checks if room is available for rent)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-1" value="&lt;b&gt;Private&lt;/b&gt;&lt;div&gt;validate room.parent.rent_allowed,&lt;br&gt;&lt;div&gt;validate room.parent.capacity(checks if room is available for rent)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="1080" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JLu_9honwRpLykDaQ8XI-2" target="xqzXWwxne0dO0nGygCqp-43">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JLu_9honwRpLykDaQ8XI-2" target="xqzXWwxne0dO0nGygCqp-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-2" value="&lt;b&gt;Public&lt;/b&gt;&lt;div&gt;add free plan to room.plans,&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-2" value="&lt;b&gt;Public&lt;/b&gt;&lt;div&gt;add free plan to room.plans,&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1200" y="980" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-3" value="&lt;b&gt;Category_plan&lt;/b&gt;&lt;br&gt;&lt;div&gt;category_ref,&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;plan(enum: rent, pass_code),&lt;/div&gt;&lt;div&gt;type(enum(user, app)),&lt;/div&gt;&lt;div&gt;price(sub_doc(amnt: money, denominatn_ref), nullable),&lt;/div&gt;&lt;div&gt;denominations(array of denomination_refs, nullable),&lt;/div&gt;&lt;/div&gt;&lt;div&gt;interval(enum(monthly, yearlyt), nullable),&lt;/div&gt;&lt;div&gt;&lt;div&gt;shared_codes(array(sub_doc(code: string(platform_generated_secured_pass_code), expires(timestamp, nullable), expired(boolean) )), nullable),&lt;/div&gt;&lt;div&gt;manual_codes(array(sub_doc(code: user_provided_code, expires(timestamp), expired(boolean)),&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;#note default denomination is the denomination ref at index &quot;0&quot; in the denominations array.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-3" value="&lt;b&gt;Category_plan&lt;/b&gt;&lt;br&gt;&lt;div&gt;category_ref,&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;plan(enum: rent, pass_code),&lt;/div&gt;&lt;div&gt;type(enum(user, app)),&lt;/div&gt;&lt;div&gt;price(sub_doc(amnt: money, denominatn_ref), nullable),&lt;/div&gt;&lt;div&gt;denominations(array of denomination_refs, nullable),&lt;/div&gt;&lt;/div&gt;&lt;div&gt;interval(enum(monthly, yearlyt), nullable),&lt;/div&gt;&lt;div&gt;&lt;div&gt;shared_codes(array(sub_doc(code: string(platform_generated_secured_pass_code), expires(timestamp, nullable), expired(boolean) )), nullable),&lt;/div&gt;&lt;div&gt;manual_codes(array(sub_doc(code: user_provided_code, expires(timestamp), expired(boolean)),&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;#note default denomination is the denomination ref at index &quot;0&quot; in the denominations array.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="-4120" width="360" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-4" value="&lt;b&gt;User_category_access&lt;/b&gt;&lt;div&gt;&lt;div&gt;user_ref,&lt;/div&gt;&lt;div&gt;user_category_plan_ref&lt;/div&gt;&lt;div&gt;&lt;div&gt;pass_code(sub_doc(code: string, mode(enum: manual,share), expires(timestamp, nullable)), nullable),&lt;/div&gt;&lt;div&gt;category_data(array(sub_doc(value: json_string, path: string))),&lt;/div&gt;&lt;div&gt;permissions(array(sub_doc(permission_ref, expires(timestamp, nullable)) ), nullable ),&lt;/div&gt;&lt;/div&gt;&lt;div&gt;level(enum(renter, guest, staff, app, etc) ),&lt;/div&gt;&lt;div&gt;status(enum(active, inactive) ),&lt;/div&gt;&lt;div&gt;role_ref,&lt;/div&gt;&lt;/div&gt;&lt;div&gt;default(boolean)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-4" value="&lt;b&gt;User_category_access&lt;/b&gt;&lt;div&gt;&lt;div&gt;user_ref,&lt;/div&gt;&lt;div&gt;user_category_plan_ref&lt;/div&gt;&lt;div&gt;&lt;div&gt;pass_code(sub_doc(code: string, mode(enum: manual,share), expires(timestamp, nullable)), nullable),&lt;/div&gt;&lt;div&gt;category_data(array(sub_doc(value: json_string, path: string))),&lt;/div&gt;&lt;div&gt;permissions(array(sub_doc(permission_ref, expires(timestamp, nullable)) ), nullable ),&lt;/div&gt;&lt;/div&gt;&lt;div&gt;level(enum(renter, guest, staff, app, etc) ),&lt;/div&gt;&lt;div&gt;status(enum(active, inactive) ),&lt;/div&gt;&lt;div&gt;role_ref,&lt;/div&gt;&lt;/div&gt;&lt;div&gt;default(boolean)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="-4640" width="360" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-5" value="&lt;b&gt;App_user_rent&lt;/b&gt;&lt;div&gt;room_ref&lt;br&gt;&lt;div&gt;plan(category_plan),&lt;/div&gt;&lt;div&gt;user_ref,&lt;/div&gt;&lt;div&gt;transaction_ref(nullable),&lt;/div&gt;&lt;div&gt;expires(timestamp)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-5" value="&lt;b&gt;App_user_rent&lt;/b&gt;&lt;div&gt;room_ref&lt;br&gt;&lt;div&gt;plan(category_plan),&lt;/div&gt;&lt;div&gt;user_ref,&lt;/div&gt;&lt;div&gt;transaction_ref(nullable),&lt;/div&gt;&lt;div&gt;expires(timestamp)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="-4360" width="360" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-6" value="&lt;b&gt;User_category_plan&lt;/b&gt;&lt;div&gt;&lt;div&gt;user_ref,&lt;/div&gt;&lt;div&gt;category_ref,&lt;/div&gt;&lt;div&gt;plan(category_plan_ref),&lt;/div&gt;&lt;div&gt;contracts(array(contract_ref))&lt;/div&gt;&lt;div&gt;expires(timestamp, nullable)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-6" value="&lt;b&gt;User_category_plan&lt;/b&gt;&lt;div&gt;&lt;div&gt;user_ref,&lt;/div&gt;&lt;div&gt;category_ref,&lt;/div&gt;&lt;div&gt;plan(category_plan_ref),&lt;/div&gt;&lt;div&gt;contracts(array(contract_ref))&lt;/div&gt;&lt;div&gt;expires(timestamp, nullable)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="-4880" width="360" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JLu_9honwRpLykDaQ8XI-12" target="JLu_9honwRpLykDaQ8XI-1">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="JLu_9honwRpLykDaQ8XI-12" target="JLu_9honwRpLykDaQ8XI-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-12" value="&lt;b&gt;Payment failed&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-12" value="&lt;b&gt;Payment failed&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1400" y="1220" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JLu_9honwRpLykDaQ8XI-15" target="xqzXWwxne0dO0nGygCqp-43">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JLu_9honwRpLykDaQ8XI-15" target="xqzXWwxne0dO0nGygCqp-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-15" value="&lt;b&gt;Payment succesfull&lt;/b&gt;&lt;div&gt;create app_user_rent for the room,&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-15" value="&lt;b&gt;Payment succesfull&lt;/b&gt;&lt;div&gt;create app_user_rent for the room,&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1700" y="1040" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="JLu_9honwRpLykDaQ8XI-23" target="JLu_9honwRpLykDaQ8XI-25">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="JLu_9honwRpLykDaQ8XI-23" target="JLu_9honwRpLykDaQ8XI-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JLu_9honwRpLykDaQ8XI-23" target="JLu_9honwRpLykDaQ8XI-24">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JLu_9honwRpLykDaQ8XI-23" target="JLu_9honwRpLykDaQ8XI-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-23" value="&lt;b&gt;Access&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;collate user access,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;user gets limited read only access,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;user gets join_room access&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-23" value="&lt;b&gt;Access&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;collate user access,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;user gets limited read only access,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;user gets join_room access&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="900" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="JLu_9honwRpLykDaQ8XI-24" target="JLu_9honwRpLykDaQ8XI-39">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="JLu_9honwRpLykDaQ8XI-24" target="JLu_9honwRpLykDaQ8XI-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-24" value="&lt;b&gt;If not category_access&lt;/b&gt;&lt;div&gt;gets&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-24" value="&lt;b&gt;If not category_access&lt;/b&gt;&lt;div&gt;gets&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1280" y="620" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JLu_9honwRpLykDaQ8XI-25" target="JLu_9honwRpLykDaQ8XI-26">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JLu_9honwRpLykDaQ8XI-25" target="JLu_9honwRpLykDaQ8XI-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="JLu_9honwRpLykDaQ8XI-25" target="JLu_9honwRpLykDaQ8XI-39">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="JLu_9honwRpLykDaQ8XI-25" target="JLu_9honwRpLykDaQ8XI-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-25" value="&lt;b&gt;If user have active [user_category_access]&lt;/b&gt;&lt;div&gt;for each user_category_acess,&lt;br&gt;&lt;div&gt;validate the default user_category_access.&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;user_category_plan&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;validate&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;user_category_access.&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;permissions,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;validate&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;user_category_access.role&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;,&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;user gets the&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;user_category_access.role access&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-25" value="&lt;b&gt;If user have active [user_category_access]&lt;/b&gt;&lt;div&gt;for each user_category_acess,&lt;br&gt;&lt;div&gt;validate the default user_category_access.&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;user_category_plan&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;validate&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;user_category_access.&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;permissions,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;validate&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;user_category_access.role&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;,&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;user gets the&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;user_category_access.role access&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1280" y="710" width="307.5" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="JLu_9honwRpLykDaQ8XI-26" target="JLu_9honwRpLykDaQ8XI-23">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="JLu_9honwRpLykDaQ8XI-26" target="JLu_9honwRpLykDaQ8XI-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-26" value="&lt;b&gt;Validation failed&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-26" value="&lt;b&gt;Validation failed&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1120" y="790" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-39" value="&lt;b&gt;User access&lt;/b&gt;&lt;div&gt;user interacts with category based on what their acquired accesses allows,&lt;/div&gt;&lt;div&gt;user can toggle between acquired roles to manage and streamline their interactions(the default access/role is the initial role until its changed, the new access/role is validated).&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-39" value="&lt;b&gt;User access&lt;/b&gt;&lt;div&gt;user interacts with category based on what their acquired accesses allows,&lt;/div&gt;&lt;div&gt;user can toggle between acquired roles to manage and streamline their interactions(the default access/role is the initial role until its changed, the new access/role is validated).&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1660" y="600" width="260" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-45" value="&lt;b&gt;Collate accesses/roles&lt;/b&gt;&lt;div&gt;set user roles/accesses for this room,&lt;/div&gt;&lt;div&gt;user interact with the room as dictated by their accesses/roles,&lt;/div&gt;&lt;div&gt;user can toggle between these roles/accesses to manage, streamline and focus their interactions with room&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="1760" width="230" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-46" value="&lt;b&gt;Public&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1265" y="1750" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JLu_9honwRpLykDaQ8XI-48" target="xqzXWwxne0dO0nGygCqp-4">
+        <mxCell id="nEexABi0wyrj7f_8TDb--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="JLu_9honwRpLykDaQ8XI-45" target="JLu_9honwRpLykDaQ8XI-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-48" value="&lt;b&gt;Validation failed&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-45" value="&lt;b&gt;Collate accesses/roles&lt;/b&gt;&lt;div&gt;set user roles/accesses for this room,&lt;/div&gt;&lt;div&gt;user interact with the room as dictated by their accesses/roles,&lt;/div&gt;&lt;div&gt;user can toggle between these roles/accesses to manage, streamline and focus their interactions with room&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="990" y="1760" width="230" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="nEexABi0wyrj7f_8TDb--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="JLu_9honwRpLykDaQ8XI-46" target="nEexABi0wyrj7f_8TDb--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nEexABi0wyrj7f_8TDb--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JLu_9honwRpLykDaQ8XI-46" target="JLu_9honwRpLykDaQ8XI-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JLu_9honwRpLykDaQ8XI-46" value="&lt;b&gt;Toggle access/role&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;validate the selected user_room_access.permissions,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;validate the&amp;nbsp;&lt;/span&gt;selected&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;user_room_access.plan,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;validate the&amp;nbsp;&lt;/span&gt;selected&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;_room_access.params,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;validate the&amp;nbsp;&lt;/span&gt;selected&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;user_room_access.role&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1370" y="1530" width="320" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="JLu_9honwRpLykDaQ8XI-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="JLu_9honwRpLykDaQ8XI-48" target="xqzXWwxne0dO0nGygCqp-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JLu_9honwRpLykDaQ8XI-48" value="&lt;b&gt;Validation failed&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1145" y="1240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-52" value="&lt;b&gt;Validation failed&lt;/b&gt;&lt;div&gt;prompt for access/role change providing them their available options&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="1980" width="190" height="100" as="geometry" />
+        <mxCell id="JLu_9honwRpLykDaQ8XI-52" value="&lt;b&gt;Validation failed&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="1980" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nEexABi0wyrj7f_8TDb--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nEexABi0wyrj7f_8TDb--1" target="JLu_9honwRpLykDaQ8XI-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nEexABi0wyrj7f_8TDb--1" value="&lt;b&gt;If [user_room_access].length &amp;gt; 1&lt;/b&gt;&lt;div&gt;set the next user_room_access.as default,&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;validate the default user_room_access.permissions,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;validate the default&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;user_room_access.plan,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;validate the default&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;user_room_access.params,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;validate the default&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;user_room_access.role&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1950" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="nEexABi0wyrj7f_8TDb--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.417;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JLu_9honwRpLykDaQ8XI-52" target="nEexABi0wyrj7f_8TDb--1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nEexABi0wyrj7f_8TDb--6" value="&lt;b&gt;Validation failed&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1550" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
