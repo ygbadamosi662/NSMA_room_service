@@ -277,7 +277,7 @@
         <mxCell id="JLu_9honwRpLykDaQ8XI-26" value="&lt;b&gt;Validation failed&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="790" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-39" value="&lt;b&gt;User access&lt;/b&gt;&lt;div&gt;user interacts with category based on what their acquired accesses allows,&lt;/div&gt;&lt;div&gt;user can toggle between acquired roles to manage and streamline their interactions.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JLu_9honwRpLykDaQ8XI-39" value="&lt;b&gt;User access&lt;/b&gt;&lt;div&gt;user interacts with category based on what their acquired accesses allows,&lt;/div&gt;&lt;div&gt;user can toggle between acquired roles to manage and streamline their interactions(the default access/role is the initial role until its changed).&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1660" y="640" width="260" height="100" as="geometry" />
         </mxCell>
         <mxCell id="JLu_9honwRpLykDaQ8XI-45" value="&lt;b&gt;Collate accesses/roles&lt;/b&gt;&lt;div&gt;set user roles/accesses for this room,&lt;/div&gt;&lt;div&gt;user interact with the room as dictated by their accesses/roles,&lt;/div&gt;&lt;div&gt;user can toggle between these roles/accesses to manage, streamline and focus their interactions with room&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
