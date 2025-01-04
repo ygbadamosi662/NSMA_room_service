@@ -301,6 +301,12 @@
         <mxCell id="nEexABi0wyrj7f_8TDb--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="JLu_9honwRpLykDaQ8XI-45" target="JLu_9honwRpLykDaQ8XI-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nEexABi0wyrj7f_8TDb--104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JLu_9honwRpLykDaQ8XI-45" target="nEexABi0wyrj7f_8TDb--11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nEexABi0wyrj7f_8TDb--105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JLu_9honwRpLykDaQ8XI-45" target="nEexABi0wyrj7f_8TDb--95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JLu_9honwRpLykDaQ8XI-45" value="&lt;b&gt;Set accesses/roles&lt;/b&gt;&lt;div&gt;set user roles/accesses for this room,&lt;/div&gt;&lt;div&gt;set active access/role for the room,&lt;/div&gt;&lt;div&gt;user interact with the room as dictated by their accesses/roles,&lt;/div&gt;&lt;div&gt;user can toggle between these roles/accesses to manage, streamline and focus their interactions with room&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="990" y="1760" width="230" height="150" as="geometry" />
         </mxCell>
@@ -337,14 +343,14 @@
         <mxCell id="nEexABi0wyrj7f_8TDb--6" value="&lt;b&gt;Validation failed&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="1550" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nEexABi0wyrj7f_8TDb--11" value="&lt;b&gt;If room.setting.allow_dynamic_entry&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="1700" width="120" height="60" as="geometry" />
+        <mxCell id="nEexABi0wyrj7f_8TDb--97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nEexABi0wyrj7f_8TDb--11" target="nEexABi0wyrj7f_8TDb--96">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nEexABi0wyrj7f_8TDb--13" value="&lt;b&gt;If room.allow_dynamic_entry&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="2220" width="190" height="60" as="geometry" />
+        <mxCell id="nEexABi0wyrj7f_8TDb--11" value="&lt;b&gt;If room.setting.allow_dynamic_entry&lt;/b&gt;&lt;div&gt;user is prompt to dynamically join a sub-room in the room&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1870" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="nEexABi0wyrj7f_8TDb--14" value="&lt;b&gt;Join sub-room&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="1780" width="120" height="60" as="geometry" />
+          <mxGeometry x="1250" y="1780" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nEexABi0wyrj7f_8TDb--83" value="&lt;b&gt;User_subroom_settings&lt;/b&gt;&lt;div&gt;user_ref,&lt;/div&gt;&lt;div&gt;sub-room(ref, nullable)&lt;br&gt;&lt;div&gt;entry(drama_queen_ref),&lt;/div&gt;&lt;div&gt;exit(drama_queen_ref),&lt;/div&gt;&lt;div&gt;display_name(string),&lt;/div&gt;&lt;div&gt;default(boolean),&lt;/div&gt;&lt;div&gt;others...&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="-5200" width="360" height="200" as="geometry" />
@@ -360,6 +366,24 @@
         </mxCell>
         <mxCell id="nEexABi0wyrj7f_8TDb--88" value="&lt;b&gt;DQ_plan&lt;/b&gt;&lt;br&gt;&lt;div&gt;dq_ref,&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;plan(enum: otp, pass_code, sub),&lt;/div&gt;&lt;div&gt;price(sub_doc(amnt: money, denominatn_ref), nullable),&lt;/div&gt;&lt;div&gt;denominations(array of denomination_refs, nullable),&lt;/div&gt;&lt;/div&gt;&lt;div&gt;interval(enum(monthly, yearlyt), nullable),&lt;/div&gt;&lt;div&gt;&lt;div&gt;shared_codes(array(sub_doc(code: string(platform_generated_secured_pass_code), expires(timestamp, nullable), expired(boolean) )), nullable),&lt;/div&gt;&lt;div&gt;manual_codes(array(sub_doc(code: user_provided_code, expires(timestamp), expired(boolean)),&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;#note default denomination is the denomination ref at index &quot;0&quot; in the denominations array.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="-6760" width="360" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="nEexABi0wyrj7f_8TDb--95" value="&lt;b&gt;If !room.setting.allow_dynamic_entry&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="2190" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nEexABi0wyrj7f_8TDb--98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nEexABi0wyrj7f_8TDb--96" target="nEexABi0wyrj7f_8TDb--95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nEexABi0wyrj7f_8TDb--96" value="&lt;b&gt;if user did not accept&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="2000" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nEexABi0wyrj7f_8TDb--99" value="&lt;b&gt;If user accepts&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="1920" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nEexABi0wyrj7f_8TDb--100" value="&lt;b&gt;Validate user_sub-room_access&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="2130" width="350" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="nEexABi0wyrj7f_8TDb--101" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="1805" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
