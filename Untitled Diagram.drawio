@@ -184,9 +184,6 @@
         <mxCell id="xqzXWwxne0dO0nGygCqp-25" value="&lt;b&gt;User_sub_room_plan&lt;/b&gt;&lt;div&gt;user_ref,&lt;/div&gt;&lt;div&gt;sub_room_ref,&lt;/div&gt;&lt;div&gt;&lt;div&gt;plan(sub_doc(type(enum: ownership, guest, staff, app), ref(sub_room_plan_ref, nullable #note tobe set if type is in [guest, staff, app]) ) ),&lt;/div&gt;&lt;/div&gt;&lt;div&gt;qty(nullable),&lt;/div&gt;&lt;div&gt;transaction_ref(nullable),&lt;/div&gt;&lt;div&gt;contracts(array(contract_ref))&lt;/div&gt;&lt;div&gt;expires(timestamp, nullable)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="-3140" width="320" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xqzXWwxne0dO0nGygCqp-32" target="JLu_9honwRpLykDaQ8XI-52">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="xqzXWwxne0dO0nGygCqp-32" value="&lt;b&gt;Enter room&lt;/b&gt;&lt;div&gt;&lt;div&gt;get users active user_room_access,&lt;/div&gt;&lt;div&gt;for each&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;user_room_access,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;validate the default user_room_access.permissions,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;validate the default&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;user_room_access.plan,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;validate the default&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;user_room_access.params,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;validate the default&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;user_room_access.role&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="1760" width="240" height="160" as="geometry" />
         </mxCell>
@@ -292,8 +289,8 @@
         <mxCell id="JLu_9honwRpLykDaQ8XI-48" value="&lt;b&gt;Validation failed&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1145" y="1240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JLu_9honwRpLykDaQ8XI-52" value="&lt;b&gt;Validation failed&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1980" width="120" height="40" as="geometry" />
+        <mxCell id="JLu_9honwRpLykDaQ8XI-52" value="&lt;b&gt;Validation failed&lt;/b&gt;&lt;div&gt;prompt for access/role change providing them their available options&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1980" width="190" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
