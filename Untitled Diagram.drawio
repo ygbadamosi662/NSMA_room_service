@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0" version="26.0.11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0" version="26.0.14">
   <diagram name="Page-1" id="JwLQiluCDj7BUVWrhCS6">
     <mxGraphModel dx="1032" dy="8195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
         <mxCell id="nEexABi0wyrj7f_8TDb--94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kceuGKvt7hz0_VKH2Cjf-4" target="nEexABi0wyrj7f_8TDb--88" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_nm13R2jICMidc4ZTQ3W-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kceuGKvt7hz0_VKH2Cjf-4" target="_nm13R2jICMidc4ZTQ3W-1">
+        <mxCell id="_nm13R2jICMidc4ZTQ3W-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kceuGKvt7hz0_VKH2Cjf-4" target="_nm13R2jICMidc4ZTQ3W-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kceuGKvt7hz0_VKH2Cjf-4" value="Models" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -478,7 +478,7 @@
         <mxCell id="nEexABi0wyrj7f_8TDb--175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.532;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nEexABi0wyrj7f_8TDb--150" target="nEexABi0wyrj7f_8TDb--109" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_nm13R2jICMidc4ZTQ3W-1" value="&lt;b&gt;Room Chat&lt;/b&gt;&lt;div&gt;message(string),&lt;/div&gt;&lt;div&gt;sender_ref,&lt;/div&gt;&lt;div&gt;replied_to_chat_ref,&lt;/div&gt;&lt;div&gt;sub_room_ref,&lt;/div&gt;&lt;div&gt;status(enum),&lt;/div&gt;&lt;div&gt;media(sub_doc(type, path, mime) )&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_nm13R2jICMidc4ZTQ3W-1" value="&lt;b&gt;Room Chat&lt;/b&gt;&lt;div&gt;message(string),&lt;/div&gt;&lt;div&gt;sender_ref,&lt;/div&gt;&lt;div&gt;replied_to_chat_ref,&lt;/div&gt;&lt;div&gt;sub_room_ref,&lt;/div&gt;&lt;div&gt;status(enum),&lt;/div&gt;&lt;div&gt;media(sub_doc(type, path, mime) ),&lt;/div&gt;&lt;div&gt;pin(enum)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="-7040" width="360" height="170" as="geometry" />
         </mxCell>
       </root>
